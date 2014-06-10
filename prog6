@@ -1,0 +1,9 @@
+
+<?PHP
+echo "\nCalculo de sueldo neto de un empleado\n";
+$age = 30;
+$sueldo-neto=0
+$sueldo = 1500;
+ $sueldo-neto = $sueldo-(($sueldo*0.15)-($sueldo*0.10));
+print_p($sueldo-neto); 
+$?>
