@@ -1,0 +1,14 @@
+<?php
+class HtmlElememt
+{
+    protected $tag;
+    protected $content;
+    protected $attributes;
+	public function __construct($tag)
+	{$this -> =$tag;}
+}
+$link =new HtmlElement('a');
+
+//<a ref="http://ww.google.com.mx">Google</a>
+//<span>Nombre</span>
+//<br>
